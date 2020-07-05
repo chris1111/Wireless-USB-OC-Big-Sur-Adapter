@@ -3,7 +3,7 @@
 
 ### Welcome to Wireless USB OC Big Sur Adapter
 ### Support macOS Big Sur 10.16 - macOS Catalina 10.15
-- For Hackintosh PC and Laptop onl
+- For Hackintosh PC and Laptop only
 - SIP must be Disable
 
 - Release Update 05 July 2020
