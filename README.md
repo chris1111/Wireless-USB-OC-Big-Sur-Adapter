@@ -2,7 +2,7 @@
 
 
 ### Welcome to Wireless USB OC Big Sur Adapter
-### Support macOS Big Sur 10.16 - macOS Catalina 10.15
+### Support macOS Big Sur 11 - macOS Catalina 10.15
 - For Hackintosh PC and Laptop only
 - SIP must be Disable
 
@@ -423,7 +423,7 @@
 
 
 
-This driver runs from macOS Big Sur 10.16
+This driver runs from macOS Big Sur 11
 The system is required to reboot after the driver is installed, so please close all the other applications before installing this software. After the system boots up and you enter the system, please follow the following steps to configure the network:
 
 - Instructions:
