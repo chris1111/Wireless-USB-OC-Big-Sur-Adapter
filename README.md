@@ -8,6 +8,8 @@
 
 - Release Update 05 July 2020
 
+#### Issues: You must give detailed information of your system and have the program Log on a .TXT file otherwise your isssues could be deleted
+
 #### Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters 
 
 #### Packages for macOS Hackintosh PC or Laptop
