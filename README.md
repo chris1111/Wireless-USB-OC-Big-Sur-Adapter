@@ -6,7 +6,7 @@
 - For Hackintosh PC and Laptop only
 - SIP must be Disable
 
-- Release Update 05 July 2020
+- Update 24 July 2020 Fix for Beta3
 
 #### Issues: 
 - You must give a complete detailed information of your system and have the program Log on a .TXT file otherwise your isssue could be deleted.
@@ -436,7 +436,7 @@ The system is required to reboot after the driver is installed, so please close 
     - 4. From the "Configure" list, select the correct adapter and configure it.
     - 5. Configure the settings.
     
-#### Download latest Release V1 [➤ Wireless USB OC Big Sur Adapter.pkg ](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V1)
+#### Download latest Release V2 [➤ Wireless USB OC Big Sur Adapter-V2.pkg ](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V2)
     
 
 
