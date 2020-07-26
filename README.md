@@ -6,6 +6,7 @@
 - For Hackintosh PC and Laptop only
 - SIP must be Disable
 
+- Update 26 July 2020 Simplify for install
 - Update 24 July 2020 Fix for Beta3
 
 #### Issues: 
