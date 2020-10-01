@@ -7,7 +7,7 @@
 - SIP must be Disable
 
 ### Important Note: There is an unresolved bug on Beta 6, 7 and Beta 8 you have to open Preferance System Security before starting the program because otherwise there will be a preferance system error. The bug is resoled on Beta 9
-- Now you need to disable the SecureBootModel in / Misc / Security ➤ like thie image ➤ [Realtek](https://user-images.githubusercontent.com/6248794/94857988-57886600-0400-11eb-9faa-465344c44c10.png)
+- Now you need to disable the SecureBootModel in / Misc / Security ➤ like thie image ➤ [SecureBootModel](https://user-images.githubusercontent.com/6248794/94857988-57886600-0400-11eb-9faa-465344c44c10.png)
 
 - Update 24 August 2020 Release V3 New Drivers and Utility
 
