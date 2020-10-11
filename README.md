@@ -11,7 +11,7 @@
 ### Important Note: There is an unresolved bug on Beta 6, 7 and Beta 8 you have to open Preferance System Security before starting the program because otherwise there will be a preferance system error. The bug is resoled on Beta 9
 
 
-- Update 24 August 2020 Release V3 New Drivers and Utility
+- Update 10 Oct 2020 Release V4 Wireless USB OC Big Sur Adapter-V4
 
 
 #### Issues: 
@@ -428,7 +428,7 @@
 
 - See my new video on macOS Big Sur
 ## Follow every steps in the Video ⬇︎
-[![Modular Image Creation](https://i87.servimg.com/u/f87/17/99/48/98/68747410.png)](https://youtu.be/3bSgXcuv3M4)
+[![Modular Image Creation](https://i87.servimg.com/u/f87/17/99/48/98/68747410.png)](https://youtu.be/jSBgtkA2kv8)
 
 
 
@@ -442,8 +442,5 @@ The system is required to reboot after the driver is installed, so please close 
     - 3. Select and launch the "Network" item in the "System Preference" folder.
     - 4. From the "Configure" list, select the correct adapter and configure it.
     - 5. Configure the settings.
-    
-#### Download latest Release V3 [➤ Wireless USB OC Big Sur Adapter-V3.pkg ](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V3)
-#### Download Release V2 [➤ Wireless USB OC Big Sur Adapter-V2.pkg ](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V2)
 
-
+#### Download latest Release V4 [➤ Wireless USB OC Big Sur Adapter-V4.pkg ](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V4)
