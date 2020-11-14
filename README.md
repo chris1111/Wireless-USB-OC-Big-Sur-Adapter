@@ -7,8 +7,9 @@
 
 ### Important Note: Since some Beta you need to disable the SecureBootModel in / Misc / Security ➤ See image ➤ [SecureBootModel](https://user-images.githubusercontent.com/6248794/94857988-57886600-0400-11eb-9faa-465344c44c10.png)
 
-### Important Note: There is an unresolved bug on Beta 6, 7 and Beta 8 you have to open Preferance System Security before starting the program because otherwise there will be a preferance system error. The bug is resoled on Beta 9
+## Work SIP disable on any macOS Big Sur version
 
+- To using relase V5 SIP Security must be disable
 
 - Update 10 Oct 2020 Release V4 Wireless USB OC Big Sur Adapter-V4
 
