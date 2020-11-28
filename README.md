@@ -11,7 +11,7 @@
 
 - To using relase V5 SIP Security must be disable
 
-- Update 10 Oct 2020 Release V4 Wireless USB OC Big Sur Adapter-V4
+- Update 28 Nov 2020 Using a blue wifi icon temporarily
 
 
 #### Issues: 
@@ -445,4 +445,4 @@ The system is required to reboot after the driver is installed, so please close 
     - 4. From the "Configure" list, select the correct adapter and configure it.
     - 5. Configure the settings.
 
-#### Download latest Release V4 [➤ Wireless USB OC Big Sur Adapter-V4.pkg ](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V4)
+#### Download latest Release V5 [➤ Wireless USB OC Big Sur Adapter-V5.pkg ](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V5)
