@@ -15,6 +15,7 @@
 ![Capture d’écran, Light](https://user-images.githubusercontent.com/6248794/100558078-c7896000-327a-11eb-9f28-d81df4c79e24.png)
 ![Capture d’écran, dark](https://user-images.githubusercontent.com/6248794/100558082-cb1ce700-327a-11eb-9a53-9c505b2432c2.png)
 
+### For Clover use this ➢[WirelessAdapterCloverBigSur](https://github.com/chris1111/WirelessAdapterCloverBigSur) ※ ※ ※
 
 #### Issues: 
 - You must give a complete detailed information of your system and have the program Log on a .TXT file otherwise your isssue could be deleted.
