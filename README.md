@@ -56,6 +56,7 @@
 - TL-WN822Nv5
 - TRENDnet N150 Micro
 - TRENDnet TEW-908UB
+- ZAPO W58L (RTL881lAU)
 
 ## Support Drivers: (Adapter)
 <details> 
