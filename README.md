@@ -1,7 +1,7 @@
-# Wireless-USB-OC-Big-Sur-Adapter
+# Wireless-USB-OC-Big-Sur-Adapter 
 
 ### Welcome to Wireless USB OC Big Sur Adapter
-### Support macOS Big Sur 11 - macOS Catalina 10.15
+### Support macOS Monterey 12 - macOS Big Sur 11 - macOS Catalina 10.15
 - For Hackintosh PC and Laptop only
 - SIP must be Disable
 
