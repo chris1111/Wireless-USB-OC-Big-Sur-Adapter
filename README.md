@@ -9,7 +9,9 @@
 
 ## Work SIP disable on any macOS Big Sur version
 
-- To using relase V5 SIP Security must be disable
+### Work SIP disable on any macOS Big Sur version 
+### To using any relase SIP Security must be disable! (Fully disable) 
+- csrutil disable csrutil authenticated-root disable
 
 - Latest Update 09 Feb 2021 Remove unecessary OpenCore Configurator
 - Update 29 Nov 2020 Using a blue WIFI icon but similar to Big Sur
