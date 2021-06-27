@@ -8,6 +8,8 @@
 ### To using any relase SIP Security must be disable! (Fully disable) 
 - csrutil disable
 
+## IMPORTANT SIP SECURITY FOLLOW THIS ➤ [SIP Security](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/discussions/115)
+
 
 ### Important Note: Since some Beta you need to disable the SecureBootModel in / Misc / Security ➤ See image ➤ [SecureBootModel](https://user-images.githubusercontent.com/6248794/94857988-57886600-0400-11eb-9faa-465344c44c10.png)
 
