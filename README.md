@@ -32,7 +32,7 @@
 
 #### Known Working and testing adapter 
 - Alfa AWUS036AC 
-- Alfa AWUS036ACH
+- Alfa AWUS036ACH ➣ [Special Program Wireless USB OC Big Sur Adapter-V8.zip](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/files/6881112/Wireless.USB.OC.Big.Sur.Adapter-V8.zip)
 - Archer T3U
 - Archer T3U Plus
 - Archer T2U MINI V3
