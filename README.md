@@ -32,7 +32,7 @@
 
 #### Known Working and testing adapter 
 - Alfa AWUS036AC 
-- Alfa AWUS036ACH ➣ [Special Program Wireless USB OC Big Sur Adapter-V8.zip](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/files/6881112/Wireless.USB.OC.Big.Sur.Adapter-V8.zip)
+- Alfa AWUS036ACH ➣ [Special Program AWUS036ACH](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/files/6881112/Wireless.USB.OC.Big.Sur.Adapter-V8.zip)
 - Archer T3U
 - Archer T3U Plus
 - Archer T2U MINI V3
@@ -51,7 +51,7 @@
 - EDIMAX N300
 - EDIMAX EW-7811Un (N150)
 - EDUP EP-AC1689
-- Linksys WUSB6300 V2 ☞ [Special Program Adapter-V7.zip](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/files/6759030/Wireless.USB.OC.Big.Sur.Adapter-V7.zip)
+- Linksys WUSB6300 V2 ☞ [Special Program WUSB6300](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/files/6759030/Wireless.USB.OC.Big.Sur.Adapter-V7.zip)
 - Linksys WUSB6400M
 - Netgear A7000
 - Sitecom WLA7100
