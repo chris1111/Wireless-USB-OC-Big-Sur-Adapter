@@ -448,7 +448,8 @@
 
 
 - See my new video on macOS Big Sur
-## Follow every steps in the Video ⬇︎
+## Follow every steps in the Video ⬇︎ - See new fonction SIP Checker
+![SIP Status OC](https://user-images.githubusercontent.com/6248794/129466145-e22674ce-8cef-4980-97a4-4abc580f854a.png)
 [![Modular Image Creation](https://i87.servimg.com/u/f87/17/99/48/98/68747410.png)](https://youtu.be/jSBgtkA2kv8)
 
 
