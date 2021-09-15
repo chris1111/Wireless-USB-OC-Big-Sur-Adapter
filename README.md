@@ -12,8 +12,8 @@
 
 ### Important Note: Since some Beta you need to disable the SecureBootModel in / Misc / Security ➤ See image ➤ [SecureBootModel](https://user-images.githubusercontent.com/6248794/94857988-57886600-0400-11eb-9faa-465344c44c10.png)
 
-### Latest Update 14 august 2021 . Check SIP status
-
+### Latest Update 15 Sept 2021 Release V11 adapt for latest macOS Big Sur 11
+- Update 14 august 2021 . Check SIP status
 - Update 30 july 2021. Drivers and Utility
 - Update 26 july 2021. Check box Auto start
 - Update 09 Feb 2021 Remove unecessary OpenCore Configurator
@@ -464,7 +464,7 @@ The system is required to reboot after the driver is installed, so please close 
     - 4. From the "Configure" list, select the correct adapter and configure it.
     - 5. Configure the settings.
 
-#### Download latest Release V10 [➤ Wireless USB OC Big Sur Adapter-V10.pkg ](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V10)
+#### Download latest Release V11 [➤ Wireless USB OC Big Sur Adapter-V11](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V11)
 
 - [StatusBar IconSet replacement.zip](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/files/6754500/StatusBar.IconSet.zip)
 
