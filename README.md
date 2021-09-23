@@ -12,7 +12,9 @@
 
 ### Important Note: Since some Beta you need to disable the SecureBootModel in / Misc / Security ➤ See image ➤ [SecureBootModel](https://user-images.githubusercontent.com/6248794/94857988-57886600-0400-11eb-9faa-465344c44c10.png)
 
-### Latest Update 15 Sept 2021 Release V11 adapt for latest macOS Big Sur 11
+### Latest Update 23 Sept 2021 Release V11 correction delete Entry in config if exist
+
+- Update 15 Sept 2021 Release V11 adapt for latest macOS Big Sur 11
 - Update 14 august 2021 . Check SIP status
 - Update 30 july 2021. Drivers and Utility
 - Update 26 july 2021. Check box Auto start
