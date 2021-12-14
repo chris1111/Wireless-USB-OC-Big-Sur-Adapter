@@ -12,8 +12,8 @@
 
 ### Important Note: Since some Beta you need to disable the SecureBootModel in / Misc / Security ➤ See image ➤ [SecureBootModel](https://user-images.githubusercontent.com/6248794/94857988-57886600-0400-11eb-9faa-465344c44c10.png)
 
-### Latest Update 13 Dec 2021 support page.html inside the program.
-
+### Latest Update 14 Dec 2021 StatusBarApp open after reboot
+- Update 13 Dec 2021 support page.html inside the program
 - Update 23 Sept 2021 Release V11 correction delete Entry in config if exist
 - Update 15 Sept 2021 Release V11 adapt for latest macOS Big Sur 11
 - Update 14 august 2021 . Check SIP status
