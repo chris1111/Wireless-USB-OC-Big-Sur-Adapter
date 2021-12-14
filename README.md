@@ -12,6 +12,8 @@
 
 ### Important Note: Since some Beta you need to disable the SecureBootModel in / Misc / Security ➤ See image ➤ [SecureBootModel](https://user-images.githubusercontent.com/6248794/94857988-57886600-0400-11eb-9faa-465344c44c10.png)
 
+## NEW: SIP SECURITY ENABLE YES ➤ [SIP Security Enable Yes](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/discussions/167)
+
 ### Latest Update 14 Dec 2021 StatusBarApp open after reboot
 - Update 13 Dec 2021 support page.html inside the program
 - Update 23 Sept 2021 Release V11 correction delete Entry in config if exist
