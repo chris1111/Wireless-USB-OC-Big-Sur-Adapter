@@ -14,7 +14,8 @@
 
 ## NEW: SIP SECURITY ENABLE YES ➤ [SIP Security Enable Yes](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/discussions/167)
 
-### Latest Update 14 Dec 2021 StatusBarApp open after reboot
+### Latest Update 31 Dec 2021 remove spam uninstall script
+- Update 14 Dec 2021 StatusBarApp open after reboot
 - Update 13 Dec 2021 support page.html inside the program
 - Update 23 Sept 2021 Release V11 correction delete Entry in config if exist
 - Update 15 Sept 2021 Release V11 adapt for latest macOS Big Sur 11
