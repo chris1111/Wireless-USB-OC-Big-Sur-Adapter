@@ -7,8 +7,8 @@
 ### Work SIP disable on any macOS Big Sur version 
 ### To using any relase SIP Security must be disable! (Fully disable) 
 - csrutil disable
-- 
-- ( 🚫  It does not work on Mediatek adapters)
+
+- ( 🚫  It does not work on [Mediatek](https://github.com/chris1111/D-LinkUtility-Package) adapters)
 
 ### Important Note: Since some Beta you need to disable the SecureBootModel in / Misc / Security ➤ See image ➤ [SecureBootModel](https://user-images.githubusercontent.com/6248794/94857988-57886600-0400-11eb-9faa-465344c44c10.png)
 
