@@ -1,7 +1,7 @@
 # Wireless-USB-OC-Big-Sur-Adapter 
 
 ### Welcome to Wireless USB OC Big Sur Adapter
-### Support macOS Monterey 12 - macOS Big Sur 11 - macOS Catalina 10.15
+### Support macOS Ventura 13 - macOS Monterey 12 - macOS Big Sur 11 - macOS Catalina 10.15
 - For Hackintosh PC and Laptop only
 
 ### Work SIP disable on any macOS Big Sur version 
@@ -14,11 +14,14 @@
 
 ## NEW: SIP SECURITY ENABLE YES ➤ [SIP Security Enable Yes](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/discussions/167)
 
-### Latest Update 08 Jan 2022 Open StatusBarApp before reboot
+### Latest Update 12 june 2022 Support macOS Ventura 13
+
 ## List Update: ⬇︎
 <details> 
   <summary>View list Update</summary>
 
+Update 08 Jan 2022 Open StatusBarApp before reboot
+	
 Update 31 Dec 2021 remove spam uninstall script
 
 Update 14 Dec 2021 support page.html inside the program, StatusBarApp open after reboot
@@ -495,7 +498,7 @@ The system is required to reboot after the driver is installed, so please close 
     - 4. From the "Configure" list, select the correct adapter and configure it.
     - 5. Configure the settings.
 
-#### Download latest Release V12 [➤ Wireless USB OC Big Sur Adapter-V12](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V12)
+#### Download latest Release V13 [➤ Wireless USB OC Big Sur Adapter-V13](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V13)
 
 - [StatusBar IconSet replacement.zip](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/files/7834243/StatusBar.IconSet.zip)
 
