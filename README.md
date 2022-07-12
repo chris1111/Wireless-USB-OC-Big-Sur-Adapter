@@ -84,6 +84,7 @@ Update 29 Nov 2020 Using a blue WIFI icon but similar to Big Sur
 - EDIMAX EW-7811Un (N150)
 - EDUP EP-AC1689
 - Fenvi AC1300 (RTL8812bu)
+- FILOWA USB WiFi-RTL8812BU
 - Foktech AC600 Nano
 - Jensen Eagle 100-AC
 - Linksys WUSB6300 V2
@@ -398,6 +399,8 @@ Update 29 Nov 2020 Using a blue WIFI icon but similar to Big Sur
 - RTL8811AU
 
 - RTL8812AU
+
+- RTL8812BU
 
 - RTL8812AU-VL
 
