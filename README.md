@@ -59,6 +59,7 @@ Update 29 Nov 2020 Using a blue WIFI icon but similar to Big Sur
 
 
 #### ⬇︎ :  Known Working and testing adapter
+- Acer UWA5
 - Alfa AWUS036AC 
 - Alfa AWUS036ACH
 - Archer T2U Nano
