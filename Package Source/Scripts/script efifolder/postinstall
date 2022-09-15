@@ -1,0 +1,88 @@
+#!/bin/bash
+# script for Mount EFI
+# chris1111 
+
+echo "==============================================="
+echo "Post Post-Install Script"
+echo "==============================================="
+
+#echo "DEBUG: $ 1 = Full path to the installation package the installer app is processing: " $1
+#echo "DEBUG: $ 2 = Full path to the installation destination: " $2
+#echo "DEBUG: $ 3 = Installation volume (mountpoint) to receive the payload: " $3
+#echo "DEBUG: $ 4 = Root directory for the system: " $4
+
+echo "preinstall: Path to installer....... $1"
+echo "preinstall: Path to destination..... $2"
+echo "preinstall: Path to dest volume..... $3"
+echo "preinstall: Root of system folder... $4"
+
+
+#############################################################################
+DEST_VOL="${3}"
+if [[ $(mount | awk '$3 == "/Volumes/EFI" {print $3}') != "" ]]; then
+ hdiutil Unmount "/Volumes/EFI"
+fi
+
+if [[ $(mount | awk '$3 == "/Volumes/ESP" {print $3}') != "" ]]; then
+ hdiutil Unmount "/Volumes/ESP"
+fi
+Sleep 3
+
+./MountESP /"$3"/
+
+Sleep 2
+echo " ---------------------------------------------
+Cleanup EFI "
+
+
+
+cp -R /"$3"/Private/tmp/EFI /Volumes/ESP
+
+rm -rf /"$3"/Private/tmp/EFI
+
+echo "Install Icon"
+
+MavericksMajorVersion="13"
+YosemiteMajorVersion="14"
+EICapitanMajorVersion="15"
+SierraMajorVersion="16"
+HighSierraMajorVersion="17"
+MojaveMajorVersion="18"
+CatalinaMajorVersion="19"
+
+ThisVersion=`uname -r`
+echo ThisVersion=$ThisVersion
+
+ThisMajorVersion=${ThisVersion:0:2}
+echo ThisMajorVersion=$ThisMajorVersion
+
+case $ThisMajorVersion in
+	$MavericksMajorVersion)		OsName="Mavericks";;
+	$YosemiteMajorVersion)		OsName="Yosemite";;
+	$EICapitanMajorVersion)		OsName="EICapitan";;
+	$SierraMajorVersion)		OsName="Sierra";;
+	$HighSierraMajorVersion)	OsName="HighSierra";;
+	$MojaveMajorVersion)		OsName="Mojave";;
+        $CatalinaMajorVersion)		OsName="Catalina";;
+esac
+
+
+###### Install App ######
+if [ $ThisMajorVersion == $CatalinaMajorVersion ]
+then
+echo "Equal than Catalina"
+cp -R /"$3"/Private/tmp/ICON/*.icns /"$3"/Library/"Application Support"/WLAN/StatusBarApp.app/Contents/Resources
+ 
+fi
+
+rm -rf /"$3"/Private/tmp/ICON
+
+# Remove link to the partition that contain the EFI folder
+rm -rf "${DEST_VOL}"/EFIROOTDIR
+
+
+exit 0
+
+
+
+		
