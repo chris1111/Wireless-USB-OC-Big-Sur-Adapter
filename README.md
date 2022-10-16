@@ -15,6 +15,9 @@
 
 ## NEW: SIP SECURITY ENABLE YES ➤ [SIP Security Enable Yes](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/discussions/167)
 
+#### Download latest Release V13 [➤ Wireless USB OC Big Sur Adapter-V13](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V13)
+
+
 ### Latest Update 12 june 2022 Support macOS Ventura 13
 
 ## List Update: ⬇︎
@@ -508,12 +511,9 @@ The system is required to reboot after the driver is installed, so please close 
     - 4. From the "Configure" list, select the correct adapter and configure it.
     - 5. Configure the settings.
 
-#### Download latest Release V13 [➤ Wireless USB OC Big Sur Adapter-V13](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V13)
 
-- [StatusBar IconSet replacement.zip](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/files/7834243/StatusBar.IconSet.zip)
+- WIFI Speed Test  Download ➤ [Catalina WIFI Speed Test.zip](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/files/6895432/WIFI.Speed.Test.zip)
 
-- Download ➤ [WIFI Speed Test.zip](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/files/6895432/WIFI.Speed.Test.zip)
+- WIFI Speed Test  Download ➤  [Monterey WIFI Network Speed Test.zip](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/files/8351329/Monterey.WIFI.Network.Speed.Test.zip) You need /usr/local/bin/python3 Installed
 
 ![Screen Shot ](https://user-images.githubusercontent.com/6248794/124283398-db9b8580-db19-11eb-87db-56251f29a5a5.png)
-
-- Download ➤  [Monterey WIFI Network Speed Test.zip](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/files/8351329/Monterey.WIFI.Network.Speed.Test.zip) You need /usr/local/bin/python3 Installed
