@@ -77,6 +77,7 @@ Update 29 Nov 2020 Using a blue WIFI icon but similar to Big Sur
 - COMFAST CF-811AC
 - COMFAST CF-812AC
 - Comfast CF-WU810N
+- Comfast CF-758F
 - Cudy WU1300S
 - Cudy WU700
 - DLink DWA-121 N150
