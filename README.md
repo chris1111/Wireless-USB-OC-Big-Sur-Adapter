@@ -108,7 +108,7 @@ Update 29 Nov 2020 Using a blue WIFI icon but similar to Big Sur
 - TL-WN823Nv2/v3
 - TL-WN725Nv3
 - TL-WN723Nv3
-- TL-WN722Nv3
+- TL-WN722N (v3, v2)
 - TL-WN821Nv6
 - TL-WN822Nv4/v5
 - TENDA W311-MINI
