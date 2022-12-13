@@ -159,4 +159,6 @@ rm -rf /Volumes/ESP/EFI/OC/kexts/RtWlanU1827.kext
 # Remove link to the partition that contain the EFI folder
 rm -rf "${DEST_VOL}"/EFIROOTDIR
 
+rm -rf "/Library/Application Support/WLAN"
+
 echo "Uninstall Complete."
