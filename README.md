@@ -15,14 +15,16 @@
 
 ## NEW: SIP SECURITY ENABLE YES ➤ [SIP Security Enable Yes](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/discussions/167)
 
-### Download latest Release V14 [➤ Wireless USB OC Big Sur Adapter-V14](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V14)
+### Download latest Release V15 [➤ Wireless USB OC Big Sur Adapter-V15](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V15)
 
 
-### Latest Update 02 Nov 2022 No more need Agents and Deamon
+### Latest Update 13 Dec 2022 Fix Uninstall Utility
 
 ## List Update: ⬇︎
 <details> 
   <summary>View list Update</summary>
+  
+Update 02 Nov 2022 No more need Agents and Deamon  
   
 Update 12 june 2022 Support macOS Ventura 13
 
