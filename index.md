@@ -28,10 +28,10 @@ layout: default
 
 
 ## List Update: ⬇︎
+<details> 
+  <summary>➦ View list Update</summary>
 
-<details><summary>➥ View list Update</summary><p>
 
----
 Update 13 Dec 2022 Fix Uninstall Utility  
   
 Update 02 Nov 2022 No more need Agents and Deamon  
@@ -61,12 +61,7 @@ Update 29 Nov 2020 Using a blue WIFI icon but similar to Big Sur
 ![Capture d’écran, Light](https://user-images.githubusercontent.com/6248794/100558078-c7896000-327a-11eb-9f28-d81df4c79e24.png)
 ![Capture d’écran, dark](https://user-images.githubusercontent.com/6248794/100558082-cb1ce700-327a-11eb-9a53-9c505b2432c2.png)
 	
----
-
-</p></details>
-
-<details> 
-	
+</details>
 
 ### For Clover use this ➢[WirelessAdapterCloverBigSur](https://github.com/chris1111/WirelessAdapterCloverBigSur) ※ ※ ※
 
@@ -136,12 +131,11 @@ Update 29 Nov 2020 Using a blue WIFI icon but similar to Big Sur
 - ZAPO W58L (RTL881lAU)
 - If you have a non listing working adapter please report it here ☞ [Report working adapter](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/discussions)
 
+
 ## Support Drivers: (Adapter)
-	
-<details><summary>➥ View list </summary><p>
-	
-	
----
+<details> 
+  <summary>➦ View list  </summary>	
+
 	
 - ASUS_USB-N10E_92CU
 
@@ -510,10 +504,9 @@ Update 29 Nov 2020 Using a blue WIFI icon but similar to Big Sur
 - ZyXEL_AC_8812AU
 
 - ZyXEL_92CU
+
 	
----
-	
-</p></details>
+</details>
 
 ### NOTE: this program is not responsible for any damage or machine that does not boot anymore.
 
