@@ -7,6 +7,7 @@
 ### Support macOS Sonoma 14 - macOS Ventura 13 - macOS Monterey 12 - macOS Big Sur 11 - macOS Catalina 10.15
 - For Hackintosh PC and Laptop only
 - There is no source for this project, All wifi companies have abandoned it as well as Realtek the main builder.
+## [Fix_Apple_Services- Messages / FaceTime](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/blob/master/Fix_Apple_Services.md)
 
 ### Work SIP disable on any macOS Big Sur version 
 ### To using any relase SIP Security must be disable! (Fully disable) 
