@@ -118,6 +118,7 @@ Update 29 Nov 2020 Using a blue WIFI icon but similar to Big Sur
 - Netgear A7000
 - Netis WF2120 N Nano USB
 - M-Tech UW-01 USB
+- Mercusys MW300UM
 - Plexgear AC1200
 - Sitecom WLA7100
 - TechKey AC1200
