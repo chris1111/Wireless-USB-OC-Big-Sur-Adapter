@@ -525,7 +525,7 @@ Update 29 Nov 2020 Using a blue WIFI icon but similar to Big Sur
 ## See Video if SIP is not disable ⬇︎
 [![Modular Image Creation](https://i87.servimg.com/u/f87/17/99/48/98/68747410.png)](https://youtu.be/ct0-joP-PVY)
 
-This driver runs from macOS Big Sur 11
+This driver runs from macOS Catalina to macOS Sonoma
 The system is required to reboot after the driver is installed, so please close all the other applications before installing this software. After the system boots up and you enter the system, please follow the following steps to configure the network:
 
 - Instructions:
