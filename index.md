@@ -129,6 +129,7 @@ The system is required to reboot after the driver is installed, so please close 
     - d - From the "Configure" list, select the correct adapter and configure it.
     - e - Configure the settings.
       
+
     
 - Wifi speed test
 - Since Monterey you can Run the command `networkquality`
