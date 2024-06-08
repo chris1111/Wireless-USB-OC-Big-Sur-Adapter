@@ -123,11 +123,11 @@ This driver runs from macOS Catalina to macOS Sonoma
 The system is required to reboot after the driver is installed, so please close all the other applications before installing this software. After the system boots up and you enter the system, please follow the following steps to configure the network:
 
 - Instructions:
-    - a. Connect to the WLAN from the status bar Icons.
-    - b. Select the "System Preference" from the system menu.
-    - c. Select and launch the "Network" item in the "System Preference" folder.
-    - d. From the "Configure" list, select the correct adapter and configure it.
-    - e. Configure the settings.
+    - a - Connect to the WLAN from the status bar Icons.
+    - b - Select the "System Preference" from the system menu.
+    - c - Select and launch the "Network" item in the "System Preference" folder.
+    - d - From the "Configure" list, select the correct adapter and configure it.
+    - e - Configure the settings.
       
     
 - Wifi speed test
