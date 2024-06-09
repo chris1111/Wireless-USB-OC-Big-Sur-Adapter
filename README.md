@@ -141,6 +141,7 @@ Update 29 Nov 2020 Using a blue WIFI icon but similar to Big Sur
 - If you have a non listing working adapter please report it here ☞ [Report working adapter](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/discussions)
 
 ## Support Drivers: (Adapter)
+
 <details> 
   <summary>View list  </summary>
 	
@@ -433,7 +434,9 @@ Update 29 Nov 2020 Using a blue WIFI icon but similar to Big Sur
 - RTL8812AU
 
 - RTL8812BU
-
+  
+- RTL8822BU
+  
 - RTL8812AU-VL
 
 - RTL8812AU-VN
@@ -511,8 +514,8 @@ Update 29 Nov 2020 Using a blue WIFI icon but similar to Big Sur
 - ZyXEL_AC_8812AU
 
 - ZyXEL_92CU
-				
 
+							
 </details>
 
 ### NOTE: this program is not responsible for any damage or machine that does not boot anymore.
