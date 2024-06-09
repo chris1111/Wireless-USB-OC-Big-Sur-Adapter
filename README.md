@@ -120,6 +120,7 @@ Update 29 Nov 2020 Using a blue WIFI icon but similar to Big Sur
 - M-Tech UW-01 USB
 - Mercusys MW300UM
 - Plexgear AC1200
+- Raimadim WiFi AC1300 [RTL8822BU]
 - Sitecom WLA7100
 - TechKey AC1200
 - TL-WN823Nv1/v2/v3
