@@ -21,10 +21,10 @@ layout: default
 
 ## NEW: SIP SECURITY ENABLE YES ➤ [SIP Security Enable Yes](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/discussions/167)
 
-### Download latest Release V16 [➤ Wireless USB OC Big Sur Adapter-V15](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V16)
+### Download latest Release V17 [➤ Wireless USB OC Big Sur Adapter-V17](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V17)
 
 
-### Latest Update 15 Dec 2022 Moove Helper
+### Latest 11 Jul 2024 Change Background
 
 
 ## List Update: ⬇︎
