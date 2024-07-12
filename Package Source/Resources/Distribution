@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <installer-script minSpecVersion="1.000000" authoringTool="com.apple.pkgbuild" authoringToolVersion="681">
-    <title>Wireless USBOC BigSurAdapter-V10</title>
+    <title>Wireless USBOC BigSurAdapter-V17</title>
     <options customize="always" allow-external-scripts="no"/>
     <domains enable_anywhere="true"/>
     <background file="background" alignment="center" scaling="tofit"/>
