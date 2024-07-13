@@ -24,7 +24,7 @@ layout: default
 ### Download latest Release V17 [➤ Wireless USB OC Big Sur Adapter-V17](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V17)
 
 
-### Latest Update 11 Jul 2024 Update StatusBarApp, change background Package
+### Latest Update 12 Jul 2024 Use my background Package
 
 ## List Update: ⬇︎
 ## View all update ➤ [Update](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/blob/master/update.md)
