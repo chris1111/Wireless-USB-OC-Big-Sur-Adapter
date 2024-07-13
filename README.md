@@ -556,7 +556,7 @@ The system is required to reboot after the driver is installed, so please close 
     - 4. From the "Configure" list, select the correct adapter and configure it.
     - 5. Configure the settings.
 
-## Wifi speed tes: ⬇︎
+## Wifi speed test: ⬇︎
 <details> 
   <summary>View Wifi speed test</summary>
 
