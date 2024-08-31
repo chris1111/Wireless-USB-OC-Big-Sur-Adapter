@@ -9,7 +9,7 @@
 - There is no source for this project, All wifi companies have abandoned it as well as Realtek the main builder.
 ## [Fix_Apple_Services- Messages / FaceTime](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/blob/master/Fix_Apple_Services.md)
 
-### macOS Sequoia 15 ➤ [Disable-Gatekeeper](https://github.com/chris1111/Disable-Gatekeeper)
+### macOS Sequoia 15! You have to ➤ [Disable-Gatekeeper](https://github.com/chris1111/Disable-Gatekeeper)
 ### Work SIP disable on any macOS Big Sur version 
 ### To using any relase SIP Security must be disable! (Fully disable) 
 - csrutil disable
@@ -19,7 +19,6 @@
 ### Important Note: Since some Beta you need to disable the SecureBootModel in / Misc / Security ➤ See image ➤ [SecureBootModel](https://user-images.githubusercontent.com/6248794/94857988-57886600-0400-11eb-9faa-465344c44c10.png)
 
 ## NEW: SIP SECURITY ENABLE YES ➤ [SIP Security Enable Yes](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/discussions/167)
-
 ### Download latest Release V17 [➤ Wireless USB OC Big Sur Adapter-V17](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V17)
 
 
