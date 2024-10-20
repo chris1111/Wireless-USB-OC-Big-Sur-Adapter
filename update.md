@@ -2,7 +2,8 @@
 
 <details> 
   <summary>View list Update</summary>
-	
+
+Update 12 Jul 2024 Use my background Package	
 Update 12 Jul 2024 Reduce size background Package adated for old macOS
 Update 12 Jul 2024 Update ButtonBox background Packag
 Update 11 Jul 2024 Update StatusBarApp, change background Package

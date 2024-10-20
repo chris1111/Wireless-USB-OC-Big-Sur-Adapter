@@ -21,7 +21,6 @@
     </choice>
     <choice id="choice44" title="Wireless Drivers" start_visible="false">
         <pkg-ref id="com.109Driver.wirelessUsbocBigsuradapter.EFIFOLDER.pkg"/>
-        <pkg-ref id="com.109Driver.wirelessUsbocBigsuradapter.Iconwifi.pkg"/>
     </choice>
     <choice id="choice59" title="Uninstall" description="Uninstall ➔ /Library/Applications Support /WLAN Uninstall ➔ /Library/LaunchAgents /Wlan.Software.plist Uninstall ➔ /Library/LaunchDaemons/Wlan.SoftwareDaemon.plist  WARNING: You Uninstall ➔ /EFI/OC/kexts/RtWlanU1827.kext, RtWlanU.kext " start_selected="false" selected="!choices['choice41'].selected">
         <pkg-ref id="com.109Driver.wirelessUsbocBigsuradapter.uninstall.pkg"/>
@@ -30,6 +29,5 @@
     <pkg-ref id="com.109Driver.wirelessUsbocBigsuradapter.Agents.pkg" installKBytes="4" version="1.0" auth="Root" onConclusion="RequireRestart">#agents.pkg</pkg-ref>
     <pkg-ref id="com.109Driver.wirelessUsbocBigsuradapter.Daemon.pkg" installKBytes="4" version="1.0" auth="Root" onConclusion="RequireRestart">#daemon.pkg</pkg-ref>
     <pkg-ref id="com.109Driver.wirelessUsbocBigsuradapter.EFIFOLDER.pkg" installKBytes="16072" version="1.0" auth="Root" onConclusion="RequireRestart">#efifolder.pkg</pkg-ref>
-    <pkg-ref id="com.109Driver.wirelessUsbocBigsuradapter.Iconwifi.pkg" installKBytes="176" version="1.0" auth="Root" onConclusion="RequireRestart">#iconwifi.pkg</pkg-ref>
     <pkg-ref id="com.109Driver.wirelessUsbocBigsuradapter.uninstall.pkg" installKBytes="0" version="1.0" auth="Root">#uninstall.pkg</pkg-ref>
 </installer-script>

@@ -2,6 +2,19 @@
 # script for Mount EFI
 # chris1111 
 
+#Filename of Application.
+APP="StatusBarApp"
+HELPER="RtWlanHelper"
+INF_NAME="netrtwlanu.inf"
+AUX_PATH="com.realtek.utility.wifi"
+
+
+#APP location.
+ROOT_PATH="/Library/Application Support/WLAN"
+AUX_PATH="com.realtek.utility.wifi"
+UTILITY_SOCK_NAME="/var/tmp/com.realtek.utility.statusbar.socket"
+
+
 echo "==============================================="
 echo "Post Post-Install Script"
 echo "==============================================="
@@ -40,42 +53,9 @@ cp -R /"$3"/Private/tmp/EFI /Volumes/ESP
 
 rm -rf /"$3"/Private/tmp/EFI
 
-echo "Install Icon"
+sudo mv "$ROOT_PATH/$HELPER" "$ROOT_PATH/$AUX_PATH/"
+sudo chmod -R 777 "$ROOT_PATH/$AUX_PATH/"
 
-MavericksMajorVersion="13"
-YosemiteMajorVersion="14"
-EICapitanMajorVersion="15"
-SierraMajorVersion="16"
-HighSierraMajorVersion="17"
-MojaveMajorVersion="18"
-CatalinaMajorVersion="19"
-
-ThisVersion=`uname -r`
-echo ThisVersion=$ThisVersion
-
-ThisMajorVersion=${ThisVersion:0:2}
-echo ThisMajorVersion=$ThisMajorVersion
-
-case $ThisMajorVersion in
-	$MavericksMajorVersion)		OsName="Mavericks";;
-	$YosemiteMajorVersion)		OsName="Yosemite";;
-	$EICapitanMajorVersion)		OsName="EICapitan";;
-	$SierraMajorVersion)		OsName="Sierra";;
-	$HighSierraMajorVersion)	OsName="HighSierra";;
-	$MojaveMajorVersion)		OsName="Mojave";;
-        $CatalinaMajorVersion)		OsName="Catalina";;
-esac
-
-
-###### Install App ######
-if [ $ThisMajorVersion == $CatalinaMajorVersion ]
-then
-echo "Equal than Catalina"
-cp -R /"$3"/Private/tmp/ICON/*.icns /"$3"/Library/"Application Support"/WLAN/StatusBarApp.app/Contents/Resources
- 
-fi
-
-rm -rf /"$3"/Private/tmp/ICON
 
 # Remove link to the partition that contain the EFI folder
 rm -rf "${DEST_VOL}"/EFIROOTDIR
