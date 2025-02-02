@@ -34,7 +34,7 @@ layout: default
 ### For Clover use this ➢[WirelessAdapterCloverBigSur](https://github.com/chris1111/WirelessAdapterCloverBigSur) ※ ※ ※
 
 #### Issues: 
-- You must give a complete detailed information of your system and have the program Log on a .TXT file otherwise your isssue could be deleted.
+- You must give a complete detailed information of your system and have the program Log on a .TXT file otherwise your issue could be deleted.
 
 
 #### Packages for macOS Hackintosh PC or Laptop
