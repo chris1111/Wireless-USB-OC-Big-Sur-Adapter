@@ -2,6 +2,8 @@
 
 ### Welcome to Wireless USB OC Big Sur Adapter
 
+[![pages-build-deployment](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/actions/workflows/pages/pages-build-deployment)
+
 ### Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters 
 
 ### Support macOS Sequoia 15 - macOS Sonoma 14 - macOS Ventura 13 - macOS Monterey 12 - macOS Big Sur 11, macOS Catalina Only! (DO NOT USE ON OTHER OS's)
