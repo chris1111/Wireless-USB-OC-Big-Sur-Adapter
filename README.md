@@ -20,7 +20,7 @@
 
 ### Important Note: Since some Beta you need to disable the SecureBootModel in / Misc / Security ➤ See image ➤ [SecureBootModel](https://user-images.githubusercontent.com/6248794/94857988-57886600-0400-11eb-9faa-465344c44c10.png)
 
-## It seems that it does not work on Mac M1,  M2 Apple chip, working only for Mac Intel.
+## It seems that it does not work on Mac M1, M2, M3, M4 Apple chip, working only for Mac Intel.
 
 ## NEW: SIP SECURITY ENABLE YES ➤ [SIP Security Enable Yes](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/discussions/167)
 ### Download latest Release V17 [➤ Wireless USB OC Big Sur Adapter-V17](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V17)
