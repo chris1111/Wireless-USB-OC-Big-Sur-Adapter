@@ -11,7 +11,7 @@ layout: default
 
 ### Welcome to Wireless USB OC Big Sur Adapter
 ### Support macOS Sequoia 15 - macOS Sonoma 14 - macOS Ventura 13 - macOS Monterey 12 - macOS Big Sur 11, macOS Catalina Only! (DO NOT USE ON OTHER OS's)
-- For Hackintosh PC and Laptop only
+- For Hackintosh PC and Laptop and OpenCore Legacy Patcher.
 - There is no source for this project, All wifi companies have abandoned it as well as Realtek the main builder.
 
 ### Work SIP disable on any macOS Big Sur version 
@@ -52,6 +52,7 @@ layout: default
 - Alfa AWUS036ACH
 - Archer T2U Plus (AC600)
 - Archer T2U Nano
+- Archer T3U Nano
 - Archer T3U
 - Archer T3U Plus
 - Archer T2U MINI V3
