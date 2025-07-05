@@ -42,6 +42,7 @@ layout: default
 #### Packages for macOS Hackintosh PC or Laptop
 - Credit: ➣ [Realtek](https://www.realtek.com/en/)
 - Credit: ➣ [Acidanthera / OpenCore](https://github.com/acidanthera/OpenCorePkg)
+- Credit: ➣ [OCLP-Mod](https://github.com/laobamac/OCLP-Mod)
 
 
 #### ⬇︎ :  Known Working and testing adapter
