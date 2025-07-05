@@ -6,7 +6,7 @@
 
 ### Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters 
 
-### Support macOS Sequoia 15 - macOS Sonoma 14 - macOS Ventura 13 - macOS Monterey 12 - macOS Big Sur 11, macOS Catalina Only! (DO NOT USE ON OTHER OS's)
+### Support macOS Sequoia 15 - macOS Sonoma 14 - macOS Ventura 13 - macOS Monterey 12 - macOS Big Sur 11, macOS Catalina, macOS Mojave 10.14.6 Only! (DO NOT USE ON OTHER OS's)
 - For Hackintosh PC and Laptop and OpenCore Legacy Patcher.
 - There is no source for this project, All wifi companies have abandoned it as well as Realtek the main builder.
 ## [Fix_Apple_Services- Messages / FaceTime](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter/blob/master/Fix_Apple_Services.md)
