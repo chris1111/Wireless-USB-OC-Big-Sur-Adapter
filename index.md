@@ -10,7 +10,7 @@ layout: default
 ### Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters 
 
 ### Welcome to Wireless USB OC Big Sur Adapter
-### Support macOS Sequoia 15 - macOS Sonoma 14 - macOS Ventura 13 - macOS Monterey 12 - macOS Big Sur 11, macOS Catalina, macOS Mojave 10.14.6 Only! (DO NOT USE ON OTHER OS's)
+### Support [macOS Tahoe 26 ➤ Usage](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/blob/master/Usage-macOS-Tahoe.md) - macOS Sequoia 15 - macOS Sonoma 14 - macOS Ventura 13 - macOS Monterey 12 - macOS Big Sur 11, macOS Catalina, macOS Mojave 10.14.6 Only! (DO NOT USE ON OTHER OS's)
 - For Hackintosh PC and Laptop and OpenCore Legacy Patcher.
 - There is no source for this project, All wifi companies have abandoned it as well as Realtek the main builder.
 
@@ -27,9 +27,7 @@ layout: default
 ### macOS Sequoia 15! You have to ➤ [Disable-Gatekeeper](https://github.com/chris1111/Disable-Gatekeeper) Like this way.
 ### Download latest Release V17 [➤ Wireless USB OC Big Sur Adapter-V17](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V17)
 
-
-### Latest Update 19 Oct 2024 We use the same wifi icons for Catalina
-
+### Latest Update 05 Jul 2025 Support macOS Tahoe 26
 
 ## List Update: ⬇︎
 ## View all update ➤ [Update](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/blob/master/update.md)
