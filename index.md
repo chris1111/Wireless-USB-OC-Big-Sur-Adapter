@@ -8,6 +8,7 @@ layout: default
 
 
 ### Drivers for Realtek 802.11n and 802.11ac USB Wi-Fi adapters 
+- ( 🚫  It does not work on [Mediatek](https://github.com/chris1111/D-LinkUtility-Package) adapters)
 
 ### Welcome to Wireless USB OC Big Sur Adapter
 ### Support [macOS Tahoe 26 ➤ Usage](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/blob/master/Usage-macOS-Tahoe.md) - macOS Sequoia 15 - macOS Sonoma 14 - macOS Ventura 13 - macOS Monterey 12 - macOS Big Sur 11, macOS Catalina, macOS Mojave 10.14.6 Only! (DO NOT USE ON OTHER OS's)
@@ -17,8 +18,6 @@ layout: default
 ### Work SIP disable on any macOS Big Sur version 
 ### To using any relase SIP Security must be disable! (Fully disable) 
 - csrutil disable
-
-- ( 🚫  It does not work on [Mediatek](https://github.com/chris1111/D-LinkUtility-Package) adapters)
 
 ### Important Note: Since some Beta you need to disable the SecureBootModel in / Misc / Security ➤ See image ➤ [SecureBootModel](https://user-images.githubusercontent.com/6248794/94857988-57886600-0400-11eb-9faa-465344c44c10.png)
 
