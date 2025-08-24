@@ -1,12 +1,12 @@
 ## Usage for macOS Tahoe:
+-1- You need a macOS Tahoe 26 installation
 
--1- You need Ethernet connection
+-2- You need Ethernet connection
 
--2- You need install [OCLP-Mod ](https://github.com/laobamac/OCLP-Mod) ➤ [Latest Release](https://github.com/laobamac/OCLP-Mod/releases)
+-3- You need install [OCLP-Mod ](https://github.com/laobamac/OCLP-Mod) ➤ [Latest Release](https://github.com/laobamac/OCLP-Mod/releases)
 
--3- You need [OpenCore-1.0.5-RELEASE.zip](https://github.com/dortania/build-repo/releases/download/OpenCorePkg-f03819e/OpenCore-1.0.5-RELEASE.zip) with [all kexts updated](https://github.com/user-attachments/files/21083896/Build-Kext.zip)
+-4- You need [OpenCore-1.0.5-RELEASE.zip](https://github.com/dortania/build-repo/releases/download/OpenCorePkg-f03819e/OpenCore-1.0.5-RELEASE.zip) with [all kexts updated](https://github.com/user-attachments/files/21083896/Build-Kext.zip)
 
--4- You need a macOS Tahoe 26 installation
 
 Follow every steps in the images bellow: ⬇︎
 
