@@ -30,3 +30,10 @@ After reboot you can use [Wireless-USB-OC-Big-Sur-Adapter](https://github.com/ch
 Success ⬇︎
 
 ![Screenshot Tahoe](https://github.com/user-attachments/assets/3d6ca0c5-1f15-4e9c-8f08-5139a6fc8815)
+
+Bonus Download ➤ [Wifi-Icons-Changer.zip](https://github.com/user-attachments/files/22396292/Wifi-Icons-Changer.zip)
+
+Default Blue
+<img width="128" height="128" alt="BarSignal_1" src="https://github.com/user-attachments/assets/d09712b3-1356-44c6-9221-7e767338931d" />
+Updated to White
+<img width="128" height="128" alt="BarSignal_2" src="https://github.com/user-attachments/assets/9d7ab0c4-97f5-4d3b-beae-4f3ccb76e1bb" />
