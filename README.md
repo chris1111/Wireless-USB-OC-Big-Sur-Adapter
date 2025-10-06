@@ -164,6 +164,7 @@ Update 29 Nov 2020 Using a blue WIFI icon but similar to Big Sur
 - TRENDnet TEW-808UBM
 - TRENDnet TEW-908UB
 - UGreen CM448
+- UGreen AC650 [With usb mode switching](usb-mode-switching.md)
 - YUNCLOUD Realtek (RTL8814AU)
 - ZAPO W58L (RTL881lAU)
 - Zebronics USB150WF1
@@ -568,6 +569,8 @@ The system is required to reboot after the driver is installed, so please close 
     - 3. Select and launch the "Network" item in the "System Preference" folder.
     - 4. From the "Configure" list, select the correct adapter and configure it.
     - 5. Configure the settings.
+
+Some USB Wi‑Fi adapters initially enumerate as a virtual CD‑ROM or USB flash drive containing proprietary Windows drivers. To make the adapter appear as a usable network device you must send it a [mode‑switch signal](./usb-mode-switching.md).
 
 ## Wifi speed test: ⬇︎
 <details> 
