@@ -26,7 +26,7 @@ layout: default
 ### macOS Sequoia 15! You have to ➤ [Disable-Gatekeeper](https://github.com/chris1111/Disable-Gatekeeper) Like this way.
 ### Download latest Release V17 [➤ Wireless USB OC Big Sur Adapter-V17](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V17)
 
-### Latest Update 05 Jul 2025 Support macOS Tahoe 26
+### Latest Update 18 Oct 2025 Update Wifi Icons
 
 ## List Update: ⬇︎
 ## View all update ➤ [Update](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/blob/master/update.md)

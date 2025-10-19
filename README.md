@@ -24,11 +24,13 @@
 ## NEW: SIP SECURITY ENABLE YES ➤ [SIP Security Enable Yes](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/discussions/167)
 ### Download latest Release V17 [➤ Wireless USB OC Big Sur Adapter-V17](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/tag/V17)
 
-### Latest Update 05 Jul 2025 Support macOS Tahoe 26
+### Latest Update 18 Oct 2025 Update Wifi Icons
 
 ## List Update: ⬇︎
 <details> 
   <summary>View list Update</summary>
+
+Update 05 Jul 2025 Support macOS Tahoe 26
 
 Update 04 Jul 2025 Support macOS Mojave 10.14.6
 
