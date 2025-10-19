@@ -31,9 +31,11 @@ Success ⬇︎
 
 ![Screenshot Tahoe](https://github.com/user-attachments/assets/3d6ca0c5-1f15-4e9c-8f08-5139a6fc8815)
 
-#### Bonus Download ➤ [Wifi-Icons-Changer.zip](https://github.com/user-attachments/files/22455622/Wifi-Icons-Changer.zip)
+#### Bonus Download ➤ [Wifi-Icons-Changer.zip](https://github.com/user-attachments/files/22987972/Wifi-Icons-Changer.zip)
+
 
 Default Blue
-<img width="128" height="128" alt="BarSignal_1" src="https://github.com/user-attachments/assets/d09712b3-1356-44c6-9221-7e767338931d" />
+<img width="128" height="128" alt="wifi-128-blue" src="https://github.com/user-attachments/assets/d206f9ab-f7dc-48bb-8280-e7c5a152632c" />
 Updated to White
-<img width="128" height="128" alt="BarSignal_2" src="https://github.com/user-attachments/assets/9d7ab0c4-97f5-4d3b-beae-4f3ccb76e1bb" />
+<img width="128" height="128" alt="wifi-128-white" src="https://github.com/user-attachments/assets/6223ce17-4f57-458c-a8f1-17b73015acb4" />
+
