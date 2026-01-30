@@ -31,7 +31,7 @@ Success ⬇︎
 
 ![Screenshot Tahoe](https://github.com/user-attachments/assets/3d6ca0c5-1f15-4e9c-8f08-5139a6fc8815)
 
-#### Bonus Download ➤ [Wifi-Icons-Changer.zip](https://github.com/user-attachments/files/22987972/Wifi-Icons-Changer.zip)
+#### Bonus Download ➤ [Wifi-Icons-Changer.zip](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter/releases/download/V17/Wifi-Icons-Changer.zip)
 
 
 Default Blue
