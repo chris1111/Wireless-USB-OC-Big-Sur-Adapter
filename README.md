@@ -154,6 +154,7 @@ Update 29 Nov 2020 Using a blue WIFI icon but similar to Big Sur
 - Mercusys MW300UM
 - Plexgear AC1200
 - Raimadim WiFi AC1300 [RTL8822BU]
+- Realtek (RTL8188) ➦ [USB WiFi 802.11B/G/N](https://www.ebay.ca/itm/275376035888)
 - Sitecom WLA7100
 - TechKey AC1200
 - TL-WN823Nv1/v2/v3/v4
