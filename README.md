@@ -152,6 +152,7 @@ Update 29 Nov 2020 Using a blue WIFI icon but similar to Big Sur
 - Netgear A7000
 - Netis WF2120 N Nano USB
 - M-Tech UW-01 USB
+- MAYMII·HOME [RTL8811CU](https://www.amazon.ca/Wireless-Adapter-600Mbps-Realtek-RTL8811CU/dp/B0C4KJNJZ2)
 - Mercusys MW300UM
 - Plexgear AC1200
 - Raimadim WiFi AC1300 [RTL8822BU]
